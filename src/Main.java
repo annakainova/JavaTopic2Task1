@@ -3,7 +3,7 @@ public class Main {
 
         int ticketCost = 13676;
         int bonusCost = 20;
-        int bonus = ticketCost/bonusCost;
+        int bonus = ticketCost / bonusCost;
         System.out.println("The sum of miles: " + bonus);
     }
 }
